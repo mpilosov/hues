@@ -1,0 +1,173 @@
+baseURL: http://hues.mpilosov.com
+languageCode: en-us
+title: Hues of Intelligence
+theme: PaperMod
+copyright: "Michael Pilosov"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics:
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Hues of Intelligence
+  description: ""
+  keywords: [Art, Mathematics, Computation, Artificial Intelligence, Machine Learning]
+  # author: ["Michael Pilosov"]
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2006-01-02"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: true  # global override of disableShare
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShareButtons: ["linkedin", "reddit"]
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: true
+  hideSummary: true
+  searchHidden: false
+  showtoc: false
+  tocopen: false
+  editPost:
+      URL: "https://github.com/mpilosov/hues/tree/main/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: ""
+    favicon16x16: ""
+    favicon32x32: ""
+    apple_touch_icon: ""
+    safari_pinned_tab: ""
+
+  label:
+    text: "Hues of Intelligence"
+    # icon: /apple-touch-icon.png
+    iconHeight: 35
+  ######################################################
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Hues of Intelligence"
+    subtitle: ""
+    # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
+    imageUrl: "https://fs.clfx.cc/i/hsv_sm.png"
+    imageWidth: 150
+    imageHeight: 150
+    # imageTitle: profile-pic
+    buttons:
+      - name: About
+        url: about
+      - name: Gallery
+        url: gallery
+
+  ######################################################
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hues of Intelligence"
+    Content: "Can Machines Discover the Rainbow?"
+
+  ######################################################
+  socialIcons:
+    - name: gitea
+      url: "https://git.mlden.com/mm/colors.git"
+    - name: instagram
+      url: "https://instagram.com/calculatedcanvas/"
+    #- name: linkedin
+    #  url: "https://linkedin.com/in/mathematicalmichael"
+    - name: email
+      url: "mailto:solutions@mindthemath.com"
+    # - name: github-alt
+    #   url: "https://github.com/ml-starter-packs/"
+  ######################################################
+  
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # global editing option
+  # editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+  
+######################################################
+menu:
+  main:
+    #- identifier: search
+    #  name: ":mag:"
+    #  url: /search/
+    #  weight: 100
+    - identifier: doc
+      name: "doc"
+      url: /doc/
+      weight: 40
+    - identifier: gallery
+      name: "gallery"
+      url: /gallery/
+      weight: 10
+    - identifier: about
+      name: "about"
+      url: /about/
+      weight: 5
+######################################################
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+privacy:
+  youtube:
+    disable: false
+    privacyEnhanced: true
