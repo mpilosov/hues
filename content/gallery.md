@@ -15,7 +15,7 @@ cover:
 
 {{< youtube GA4e7jd_m_U >}}
 
-# Stills
+## Stills
 ![a20](https://fs.clfx.cc/i/v20_umap.png)
 ![wide-view](https://fs.clfx.cc/i/hue-wide.jpg)
 ![close-view](https://fs.clfx.cc/i/hue-close.jpg)
@@ -25,7 +25,7 @@ cover:
 ![c1](https://fs.clfx.cc/i/v0_unsupervised.png)
 ![d1](https://fs.clfx.cc/i/v0_unsupervised2.png)
 
-# Animations
+## Animations
 
 [a0.mp4](https://fs.clfx.cc/v/a0.mp4)
 [a2.mp4](https://fs.clfx.cc/v/a2.mp4)
