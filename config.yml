@@ -136,10 +136,10 @@ menu:
     #  name: ":mag:"
     #  url: /search/
     #  weight: 100
-    - identifier: doc
-      name: "doc"
-      url: /doc/
-      weight: 40
+    # - identifier: doc
+    #   name: "doc"
+    #   url: /doc/
+    #   weight: 40
     - identifier: gallery
       name: "gallery"
       url: /gallery/
