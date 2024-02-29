@@ -13,5 +13,5 @@ cover:
     hidden: false
 ---
 
-Photos of the piece, animations.
+TODO: Photos of the piece, animations.
 
