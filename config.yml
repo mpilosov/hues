@@ -51,7 +51,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: ""
+    favicon: "https://fs.clfx.cc/i/hsv_sm.png"
     favicon16x16: ""
     favicon32x32: ""
     apple_touch_icon: ""
