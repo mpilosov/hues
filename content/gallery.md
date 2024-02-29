@@ -18,6 +18,11 @@ cover:
 ![wide-view](https://fs.clfx.cc/i/hue-wide.jpg)
 ![close-view](https://fs.clfx.cc/i/hue-close.jpg)
 
+![a1](https://fs.clfx.cc/i/v0_umap.png)
+![b1](https://fs.clfx.cc/i/v0_supervised.png)
+![c1](https://fs.clfx.cc/i/v0_unsupervised.png)
+![d1](https://fs.clfx.cc/i/v0_anchors.png)
+![a20](https://fs.clfx.cc/i/v20_umap.png)
 
 # More videos
 
