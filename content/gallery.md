@@ -13,5 +13,9 @@ cover:
     hidden: false
 ---
 
-TODO: Photos of the piece, animations.
+![wide-view](https://fs.clfx.cc/i/hue-wide.jpg)
+![close-view](https://fs.clfx.cc/i/hue-close.jpg)
 
+[a0.mp4](https://fs.clfx.cc/v/a0.mp4)
+[a2.mp4](https://fs.clfx.cc/v/a2.mp4)
+[a4.mp4](https://fs.clfx.cc/v/a4.mp4)
