@@ -1,6 +1,6 @@
 ---
 title: "Supervised Learning"
-draft: true
+draft: false
 weight: 22
 tags: []
 categories: ["documentation"]
