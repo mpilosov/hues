@@ -1,12 +1,12 @@
 ---
-title: "Algorithm Overview"
+title: "Introduction"
 draft: false
 weight: 4
 tags: []
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false
-aliases: ["/info"]
+aliases: ["/info", "/docs/about"]
 cover:
     image: ""
     alt: ""
