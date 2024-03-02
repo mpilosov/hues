@@ -6,6 +6,7 @@ tags: []
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false
+aliases: ["/info"]
 cover:
     image: ""
     alt: ""

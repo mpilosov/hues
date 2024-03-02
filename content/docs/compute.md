@@ -1,11 +1,12 @@
 ---
-title: "Supervised Learning"
+title: "Cloud Compute"
 draft: true
-weight: 22
+weight: 10
 tags: []
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false
+aliases: ["/cloud"]
 cover:
     image: ""
     alt: ""
@@ -14,5 +15,5 @@ cover:
     hidden: false
 ---
 
-Explanation of the algorithms in the project.
+Explanation of hardware used.
 

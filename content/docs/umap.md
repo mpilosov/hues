@@ -6,6 +6,7 @@ tags: []
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false
+aliases: ["/umap", "/statistical", "/baseline"]
 cover:
     image: ""
     alt: ""
