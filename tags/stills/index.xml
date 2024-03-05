@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>stills on Hues of Intelligence</title>
+    <link>http://hues.mpilosov.com/tags/stills/</link>
+    <description>Recent content in stills on Hues of Intelligence</description>
+    <image>
+      <url>http://hues.mpilosov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://hues.mpilosov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Michael Pilosov</copyright><atom:link href="http://hues.mpilosov.com/tags/stills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery</title>
+      <link>http://hues.mpilosov.com/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/gallery/</guid>
+      <description>Stills more
+Animations a0.mp4 a2.mp4 a4.mp4</description>
+    </item>
+    
+    <item>
+      <title>Statistical Baseline: UMAP</title>
+      <link>http://hues.mpilosov.com/docs/umap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/docs/umap/</guid>
+      <description>Uniform Manifold Approximation and Projection is a statistical technique for reducing the dimension of a space. It operates by looking for a low-dimensional projection of the data that has the &amp;ldquo;closest possible equivalent fuzzy topological structure.&amp;rdquo; In other words, it is designed to preserve the relative distances between points in space before and after projection.
+This fit well with the intended task to transform RGB space into a 1-dimensional space in which we can interrogate color orderings.</description>
+    </item>
+    
+    <item>
+      <title>Supervised Learning</title>
+      <link>http://hues.mpilosov.com/docs/supervised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/docs/supervised/</guid>
+      <description>In the supervised learning regime, the true values of hue were presented in the form of &amp;ldquo;correct answers,&amp;rdquo; allowing the neural network to learn the transformation between RGB and Hue.</description>
+    </item>
+    
+    <item>
+      <title>Going Unsupervised</title>
+      <link>http://hues.mpilosov.com/docs/unsupervised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/docs/unsupervised/</guid>
+      <description>In the first unsupervised set, the objective was defined as preserving the relative distances amongst examples in the same batch. In other words, for a given set of examples, the model would compare how far apart each pair of colors were in RGB space and in the discovered 1-dimensional space. It tried to keep these pair-wise distances similar to each other.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Approach without Batch-Dependence</title>
+      <link>http://hues.mpilosov.com/docs/anchors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/docs/anchors/</guid>
+      <description>In the second unsupervised set, the objective was similar to the first, but instead of comparing distances amongst examples in the same training batch, a fixed set of colors was used, acting as anchors. This removes one of the elements of randomness in evaluating the objective to optimize, and creates less of a dependence on batch size in the unsupervised learning approach.
+These results tended to be more consistent in the orderings that the machine discovered, creating results that appear to leverage luminosity and color information together.</description>
+    </item>
+    
+  </channel>
+</rss>

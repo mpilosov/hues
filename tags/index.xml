@@ -11,5 +11,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Michael Pilosov</copyright><atom:link href="http://hues.mpilosov.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algorithm</title>
+      <link>http://hues.mpilosov.com/tags/algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stills</title>
+      <link>http://hues.mpilosov.com/tags/stills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/tags/stills/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
