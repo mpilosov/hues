@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hues of Intelligence</title>
-    <link>http://hues.mpilosov.com/</link>
-    <description>Recent content on Hues of Intelligence</description>
+    <title>documentation on Hues of Intelligence</title>
+    <link>http://hues.mpilosov.com/categories/documentation/</link>
+    <description>Recent content in documentation on Hues of Intelligence</description>
     <image>
       <url>http://hues.mpilosov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://hues.mpilosov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Michael Pilosov</copyright><atom:link href="http://hues.mpilosov.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hues of Intelligence</title>
-      <link>http://hues.mpilosov.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://hues.mpilosov.com/about/</guid>
-      <description>The Hues of Intelligence project is an art installation that challenges us to examine the influx of machines into our daily lives–to explore how their perspectives on the world compare to our own. Algorithms were tasked with sequencing a collection of colors; the results of their attempts are presented as a collection of prints and animations.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://hues.mpilosov.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://hues.mpilosov.com/contact/</guid>
-      <description>Get in Touch mpilosov (at) gmail (dot) com</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>http://hues.mpilosov.com/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://hues.mpilosov.com/gallery/</guid>
-      <description>Stills Animations a0.mp4 a2.mp4 a4.mp4</description>
-    </item>
-    
+    <copyright>Michael Pilosov</copyright><atom:link href="http://hues.mpilosov.com/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
       <link>http://hues.mpilosov.com/docs/intro/</link>
@@ -84,7 +57,6 @@ This fit well with the intended task to transform RGB space into a 1-dimensional
       <description>In the second unsupervised set, the objective was similar to the first, but instead of comparing distances amongst examples in the same training batch, a fixed set of colors was used, acting as anchors. This removes one of the elements of randomness in evaluating the objective to optimize, and creates less of a dependence on batch size in the unsupervised learning approach.
 These results tended to be more consistent in the orderings that the machine discovered, creating results that appear to leverage luminosity and color information together.</description>
     </item>
-    
     
   </channel>
 </rss>
