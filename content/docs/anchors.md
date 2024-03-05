@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised Approach without Batch-Dependence"
+title: "Anchoring the Unsupervised"
 draft: false
 weight: 24
 tags: ["algorithm", "stills"]
@@ -25,4 +25,9 @@ These results tended to be more consistent in the orderings that the machine dis
 ![img-1](https://fs.clfx.cc/i/h/v1_unsupervised2.png#center)
 ![img-2](https://fs.clfx.cc/i/h/v2_unsupervised2.png#center)
 ![img-3](https://fs.clfx.cc/i/h/v3_unsupervised2.png#center)
+
+![img-4](https://fs.clfx.cc/i/h/v4_unsupervised2.png#center)
+![img-5](https://fs.clfx.cc/i/h/v5_unsupervised2.png#center)
+![img-6](https://fs.clfx.cc/i/h/v6_unsupervised2.png#center)
+![img-7](https://fs.clfx.cc/i/h/v7_unsupervised2.png#center)
 

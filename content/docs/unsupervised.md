@@ -24,3 +24,8 @@ It tried to keep these pair-wise distances similar to each other.
 ![img-2](https://fs.clfx.cc/i/h/v2_unsupervised.png#center)
 ![img-3](https://fs.clfx.cc/i/h/v3_unsupervised.png#center)
 
+![img-4](https://fs.clfx.cc/i/h/v4_unsupervised.png#center)
+![img-5](https://fs.clfx.cc/i/h/v5_unsupervised.png#center)
+![img-6](https://fs.clfx.cc/i/h/v6_unsupervised.png#center)
+![img-7](https://fs.clfx.cc/i/h/v7_unsupervised.png#center)
+
