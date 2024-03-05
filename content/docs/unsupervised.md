@@ -2,7 +2,7 @@
 title: "Going Unsupervised"
 draft: false
 weight: 23
-tags: []
+tags: ["algorithm", "stills"]
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false

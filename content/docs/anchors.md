@@ -2,7 +2,7 @@
 title: "Unsupervised Approach without Batch-Dependence"
 draft: false
 weight: 24
-tags: []
+tags: ["algorithm", "stills"]
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false

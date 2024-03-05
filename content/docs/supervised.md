@@ -2,7 +2,7 @@
 title: "Supervised Learning"
 draft: false
 weight: 22
-tags: []
+tags: ["algorithm", "stills"]
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false

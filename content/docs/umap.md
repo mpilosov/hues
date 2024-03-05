@@ -2,7 +2,7 @@
 title: "Statistical Baseline: UMAP"
 draft: false
 weight: 21
-tags: []
+tags: ["algorithm", "stills"]
 categories: ["documentation"]
 disableShare: true
 ShowPostNavLinks: false
