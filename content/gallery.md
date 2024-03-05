@@ -25,8 +25,11 @@ cover:
 ![c1](https://fs.clfx.cc/i/h/v0_unsupervised.png#center)
 ![d1](https://fs.clfx.cc/i/h/v0_unsupervised2.png#center)
 
+[more](/docs/)
+
 ## Animations
 
 [a0.mp4](https://fs.clfx.cc/v/a0.mp4)
 [a2.mp4](https://fs.clfx.cc/v/a2.mp4)
 [a4.mp4](https://fs.clfx.cc/v/a4.mp4)
+
