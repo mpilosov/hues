@@ -26,6 +26,11 @@ These results tended to be more consistent in the orderings that the machine dis
 ![img-2](https://fs.clfx.cc/i/h/v2_unsupervised2.png#center)
 ![img-3](https://fs.clfx.cc/i/h/v3_unsupervised2.png#center)
 
+
+Much like the other [unsupervised attempts](/unsupervised), this makes its way through luminosity-sorting.
+
+{{< youtube qiavqzBEvPo >}}
+
 ![img-4](https://fs.clfx.cc/i/h/v4_unsupervised2.png#center)
 ![img-5](https://fs.clfx.cc/i/h/v5_unsupervised2.png#center)
 ![img-6](https://fs.clfx.cc/i/h/v6_unsupervised2.png#center)
