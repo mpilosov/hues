@@ -40,6 +40,16 @@ Animations Learned Discovered Technical Information Please see the docs</descrip
     </item>
     
     <item>
+      <title>Project Information</title>
+      <link>http://hues.mpilosov.com/docs/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hues.mpilosov.com/docs/intro/</guid>
+      <description>How can we expect to steer artificial intelligence, to establish safety guardrails around it, to hand over so much control over decisions that impact our lives&amp;hellip; without first understanding the ways in which these systems perceive the world?
+Technical Details When designing the training procedure for algorithms, there are two broad categories which encompass most work. The first involves supervising the machine&amp;rsquo;s learning process, by presenting it with correct answers. The second is called unsupervised learning, and involves defining an objective that can be computed without the need for &amp;ldquo;correct&amp;rdquo; answers.</description>
+    </item>
+    
+    <item>
       <title>Statistical Baseline: UMAP</title>
       <link>http://hues.mpilosov.com/docs/umap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
