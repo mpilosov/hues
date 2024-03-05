@@ -38,7 +38,7 @@ editPost:
 
 {{< youtube GA4e7jd_m_U >}}
 
-![a10](https://fs.clfx.cc/i/v10_umap.png)
+![a10](https://fs.clfx.cc/i/h/v10_umap.png)
 
 If machines will be making an ever-increasing proportion of our human decisions, then should we not ask ourselves what differences exist between our human perceptions and those of the decision-makers?
 
@@ -58,8 +58,8 @@ Can they identify the natural ordering amongst the sea of algorithmic imagery?
 If machines struggle to discover human preference, then should we entrust them with more substantive decisions? Is their ability to learn to approximate our preferences a sufficient criteria for handing over control?
 
 
-![a21](https://fs.clfx.cc/i/v21_umap.png)
+![a21](https://fs.clfx.cc/i/h/v21_umap.png)
 
-![wide-view](https://fs.clfx.cc/i/hue-wide.jpg)
+![wide-view](https://fs.clfx.cc/i/h/hue-wide.jpg)
 
 More images in the [gallery](/gallery).

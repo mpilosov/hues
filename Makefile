@@ -5,12 +5,12 @@ serve-from-docker:
 	./docker/hugo.sh server --disableFastRender --port 1313 --bind 0.0.0.0
 
 stage:
-	hugo --baseURL=/mtm/stage && \
-	rsync -e 'ssh -p 10044' -azP --delete public/ mm@io.local:/data/media/www/mtm/stage/
+	hugo --baseURL=/hues/stage && \
+	rsync -e 'ssh -p 10044' -azP --delete public/ mm@io.local:/data/media/www/hues/stage/
 
 stage-from-docker:
-	./docker/hugo.sh --baseURL=/mtm/stage && \
-	rsync -e 'ssh -p 10044' -azP --delete public/ mm@io.pvt:/data/media/www/mtm/stage/
+	./docker/hugo.sh --baseURL=/hues/stage && \
+	rsync -e 'ssh -p 10044' -azP --delete public/ mm@io.pvt:/data/media/www/hues/stage/
 
 VER=0.104.1
 VAR=_extended
