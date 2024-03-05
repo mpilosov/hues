@@ -22,3 +22,4 @@ In the supervised learning regime, the true values of hue were presented in the 
 ![img-1](https://fs.clfx.cc/i/h/v1_supervised.png#center)
 ![img-2](https://fs.clfx.cc/i/h/v2_supervised.png#center)
 ![img-3](https://fs.clfx.cc/i/h/v3_supervised.png#center)
+

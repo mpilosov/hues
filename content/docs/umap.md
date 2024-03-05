@@ -23,3 +23,8 @@ This fit well with the intended task to transform RGB space into a 1-dimensional
 
 The results from using UMAP for creating color orderings did not really come across a transformation that woudl approximate Hue, but did very well at keeping like-colors together and creating visually pleasing images.
 
+![img-0](https://fs.clfx.cc/i/h/v0_umap.png#center)
+![img-1](https://fs.clfx.cc/i/h/v1_umap.png#center)
+![img-2](https://fs.clfx.cc/i/h/v2_umap.png#center)
+![img-3](https://fs.clfx.cc/i/h/v3_umap.png#center)
+
