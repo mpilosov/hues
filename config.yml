@@ -51,7 +51,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://fs.clfx.cc/i/hsv_sm.png"
+    favicon: "https://fs.clfx.cc/i/h/hsv_sm.png"
     favicon16x16: ""
     favicon32x32: ""
     apple_touch_icon: ""
@@ -89,8 +89,8 @@ params:
   socialIcons:
     - name: gitea
       url: "https://git.mlden.com/mm/colors.git"
-    - name: instagram
-      url: "https://instagram.com/calculatedcanvas/"
+    #- name: instagram
+    #  url: "https://instagram.com/calculatedcanvas/"
     #- name: linkedin
     #  url: "https://linkedin.com/in/mathematicalmichael"
     - name: email
