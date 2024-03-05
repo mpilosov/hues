@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 weight: 4
-tags: []
+tags: ["stills"]
 categories: []
 disableShare: true
 ShowPostNavLinks: false
@@ -25,7 +25,7 @@ cover:
 ![c1](https://fs.clfx.cc/i/h/v0_unsupervised.png#center)
 ![d1](https://fs.clfx.cc/i/h/v0_unsupervised2.png#center)
 
-[more](/docs/)
+[more](/tags/stills)
 
 ## Animations
 
