@@ -1,6 +1,6 @@
 ---
 title: "Project Information"
-draft: true
+draft: false
 weight: 4
 tags: []
 categories: ["documentation"]
