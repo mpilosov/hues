@@ -29,7 +29,13 @@ cover:
 
 ## Animations
 
-[a0.mp4](https://fs.clfx.cc/v/a0.mp4)
-[a2.mp4](https://fs.clfx.cc/v/a2.mp4)
-[a4.mp4](https://fs.clfx.cc/v/a4.mp4)
+### Learned
+{{< youtube dBzS4ir9LlM >}}
 
+### Discovered
+{{< youtube gY53U477XiI >}}
+
+
+## Technical Information
+
+Please see the [docs](/docs/intro)
