@@ -28,3 +28,8 @@ The results from using UMAP for creating color orderings did not really come acr
 ![img-2](https://fs.clfx.cc/i/h/v2_umap.png#center)
 ![img-3](https://fs.clfx.cc/i/h/v3_umap.png#center)
 
+![img-4](https://fs.clfx.cc/i/h/v4_umap.png#center)
+![img-5](https://fs.clfx.cc/i/h/v5_umap.png#center)
+![img-6](https://fs.clfx.cc/i/h/v6_umap.png#center)
+![img-7](https://fs.clfx.cc/i/h/v7_umap.png#center)
+
