@@ -63,4 +63,5 @@ If machines struggle to discover human preference, then should we entrust them w
 
 ![a21](https://data.math.computer/v21_umap.png#center)
 
-More images in the [gallery](/gallery).
+More images in the [gallery](/gallery) and alongside project details in the [docs](/docs).
+
