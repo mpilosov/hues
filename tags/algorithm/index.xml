@@ -39,7 +39,7 @@ It is interesting to watch its attempt evolve:</description>
       
       <guid>http://hues.mpilosov.com/docs/unsupervised/</guid>
       <description>In the first unsupervised set, the objective was defined as preserving the relative distances amongst examples in the same batch. In other words, for a given set of examples, the model would compare how far apart each pair of colors were in RGB space and in the discovered 1-dimensional space. It tried to keep these pair-wise distances similar to each other.
-At some point during the discovery, it comes across the concept of luminance (brightness), before settling into something that blends this concept along with grouping like-colors.</description>
+At some point during the discovery, the model comes across the concept of luminance (brightness), before settling into a discovery path that blends this concept in combination with grouping like-colors.</description>
     </item>
     
     <item>
