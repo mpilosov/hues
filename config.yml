@@ -54,8 +54,8 @@ params:
     favicon: "https://data.math.computer/hsv128.ico"
     favicon16x16: "https://data.math.computer/hsv16.ico"
     favicon32x32:  "https://data.math.computer/hsv32.ico"
-    apple_touch_icon: "https://data.math.computer/hsv128.ico"
-    safari_pinned_tab: "https://data.math.computer/hsv128.ico"
+    apple_touch_icon: "https://data.math.computer/hsv_sm.png"
+    safari_pinned_tab: "https://data.math.computer/hsv_sm.png"
 
   label:
     text: "Hues of Intelligence"
@@ -67,10 +67,9 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hues of Intelligence"
     subtitle: ""
-    # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
     imageUrl: "https://data.math.computer/hsv_sm.png"
-    imageWidth: 150
-    imageHeight: 150
+    imageWidth: 200
+    imageHeight: 200
     # imageTitle: profile-pic
     buttons:
       - name: About
