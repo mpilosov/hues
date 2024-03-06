@@ -24,13 +24,13 @@ It tried to keep these pair-wise distances similar to each other.
 At some point during the discovery, the model comes across the concept of luminance (brightness), before settling into a discovery path that blends this concept in combination with grouping like-colors.
 Many attempts turned out with blue-brown-yellow characteristics, while some landed closer to a sorting-by-brightness result.
 
-![img-0](https://fs.clfx.cc/i/h/v0_unsupervised.png#center)
-![img-1](https://fs.clfx.cc/i/h/v1_unsupervised.png#center)
-![img-2](https://fs.clfx.cc/i/h/v2_unsupervised.png#center)
-![img-3](https://fs.clfx.cc/i/h/v3_unsupervised.png#center)
+![img-0](https://data.math.computer/v0_unsupervised.png#center)
+![img-1](https://data.math.computer/v1_unsupervised.png#center)
+![img-2](https://data.math.computer/v2_unsupervised.png#center)
+![img-3](https://data.math.computer/v3_unsupervised.png#center)
 
-![img-4](https://fs.clfx.cc/i/h/v4_unsupervised.png#center)
-![img-5](https://fs.clfx.cc/i/h/v5_unsupervised.png#center)
-![img-6](https://fs.clfx.cc/i/h/v6_unsupervised.png#center)
-![img-7](https://fs.clfx.cc/i/h/v7_unsupervised.png#center)
+![img-4](https://data.math.computer/v4_unsupervised.png#center)
+![img-5](https://data.math.computer/v5_unsupervised.png#center)
+![img-6](https://data.math.computer/v6_unsupervised.png#center)
+![img-7](https://data.math.computer/v7_unsupervised.png#center)
 

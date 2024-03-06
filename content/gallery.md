@@ -16,14 +16,14 @@ cover:
 {{< youtube GA4e7jd_m_U >}}
 
 ## Stills
-![a20](https://fs.clfx.cc/i/h/v20_umap.png#center)
-![wide-view](https://fs.clfx.cc/i/h/hue-wide.jpg#center)
-![close-view](https://fs.clfx.cc/i/h/hue-close.jpg#center)
+![a20](https://data.math.computer/v20_umap.png#center)
+![wide-view](https://data.math.computer/hue-wide.jpg#center)
+![close-view](https://data.math.computer/hue-close.jpg#center)
 
-![a1](https://fs.clfx.cc/i/h/v0_umap.png#center)
-![b1](https://fs.clfx.cc/i/h/v0_supervised.png#center)
-![c1](https://fs.clfx.cc/i/h/v0_unsupervised.png#center)
-![d1](https://fs.clfx.cc/i/h/v0_unsupervised2.png#center)
+![a1](https://data.math.computer/v0_umap.png#center)
+![b1](https://data.math.computer/v0_supervised.png#center)
+![c1](https://data.math.computer/v0_unsupervised.png#center)
+![d1](https://data.math.computer/v0_unsupervised2.png#center)
 
 [more](/tags/stills)
 

@@ -51,11 +51,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://fs.clfx.cc/i/h/hsv128.ico"
-    favicon16x16: "https://fs.clfx.cc/i/h/hsv16.ico"
-    favicon32x32:  "https://fs.clfx.cc/i/h/hsv32.ico"
-    apple_touch_icon: "https://fs.clfx.cc/i/h/hsv128.ico"
-    safari_pinned_tab: "https://fs.clfx.cc/i/h/hsv128.ico"
+    favicon: "https://data.math.computer/hsv128.ico"
+    favicon16x16: "https://data.math.computer/hsv16.ico"
+    favicon32x32:  "https://data.math.computer/hsv32.ico"
+    apple_touch_icon: "https://data.math.computer/hsv128.ico"
+    safari_pinned_tab: "https://data.math.computer/hsv128.ico"
 
   label:
     text: "Hues of Intelligence"
@@ -68,7 +68,7 @@ params:
     title: "Hues of Intelligence"
     subtitle: ""
     # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
-    imageUrl: "https://fs.clfx.cc/i/hsv_sm.png"
+    imageUrl: "https://data.math.computer/hsv_sm.png"
     imageWidth: 150
     imageHeight: 150
     # imageTitle: profile-pic

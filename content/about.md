@@ -21,7 +21,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 cover:
-    image: "https://fs.clfx.cc/i/h/hsv.png"
+    image: "https://data.math.computer/hsv.png"
     alt: ""
     caption: ""
     relative: false
@@ -57,10 +57,10 @@ Can they identify the natural ordering amongst the sea of algorithmic imagery?
 If machines struggle to discover human preference, then should we entrust them with more substantive decisions? Is their ability to learn to approximate our preferences a sufficient criteria for handing over control?
 
 
-![a10](https://fs.clfx.cc/i/h/v10_umap.png#center)
+![a10](https://data.math.computer/v10_umap.png#center)
 
-![wide-view](https://fs.clfx.cc/i/h/hue-wide.jpg#center)
+![wide-view](https://data.math.computer/hue-wide.jpg#center)
 
-![a21](https://fs.clfx.cc/i/h/v21_umap.png#center)
+![a21](https://data.math.computer/v21_umap.png#center)
 
 More images in the [gallery](/gallery).

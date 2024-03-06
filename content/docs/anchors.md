@@ -21,18 +21,18 @@ This removes one of the elements of randomness in evaluating the objective to op
 These results tended to be more consistent in the orderings that the machine discovered, creating results that appear to leverage luminosity and color information together.
 
 
-![img-0](https://fs.clfx.cc/i/h/v0_unsupervised2.png#center)
-![img-1](https://fs.clfx.cc/i/h/v1_unsupervised2.png#center)
-![img-2](https://fs.clfx.cc/i/h/v2_unsupervised2.png#center)
-![img-3](https://fs.clfx.cc/i/h/v3_unsupervised2.png#center)
+![img-0](https://data.math.computer/v0_unsupervised2.png#center)
+![img-1](https://data.math.computer/v1_unsupervised2.png#center)
+![img-2](https://data.math.computer/v2_unsupervised2.png#center)
+![img-3](https://data.math.computer/v3_unsupervised2.png#center)
 
 
 Much like the other [unsupervised attempts](/unsupervised), this makes its way through luminosity-sorting.
 
 {{< youtube qiavqzBEvPo >}}
 
-![img-4](https://fs.clfx.cc/i/h/v4_unsupervised2.png#center)
-![img-5](https://fs.clfx.cc/i/h/v5_unsupervised2.png#center)
-![img-6](https://fs.clfx.cc/i/h/v6_unsupervised2.png#center)
-![img-7](https://fs.clfx.cc/i/h/v7_unsupervised2.png#center)
+![img-4](https://data.math.computer/v4_unsupervised2.png#center)
+![img-5](https://data.math.computer/v5_unsupervised2.png#center)
+![img-6](https://data.math.computer/v6_unsupervised2.png#center)
+![img-7](https://data.math.computer/v7_unsupervised2.png#center)
 
