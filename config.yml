@@ -51,11 +51,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://fs.clfx.cc/i/h/hsv_sm.png"
-    favicon16x16: ""
-    favicon32x32: ""
-    apple_touch_icon: ""
-    safari_pinned_tab: ""
+    favicon: "https://fs.clfx.cc/i/h/hsv128.ico"
+    favicon16x16: "https://fs.clfx.cc/i/h/hsv16.ico"
+    favicon32x32:  "https://fs.clfx.cc/i/h/hsv32.ico"
+    apple_touch_icon: "https://fs.clfx.cc/i/h/hsv128.ico"
+    safari_pinned_tab: "https://fs.clfx.cc/i/h/hsv128.ico"
 
   label:
     text: "Hues of Intelligence"
