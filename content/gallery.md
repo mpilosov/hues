@@ -28,6 +28,7 @@ cover:
 [more](/tags/stills)
 
 ## Animations
+(make sure to select 4K)
 
 ### Learned
 {{< youtube dBzS4ir9LlM >}}
