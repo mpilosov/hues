@@ -91,12 +91,10 @@ params:
       url: "https://git.mlden.com/mm/colors.git"
     #- name: instagram
     #  url: "https://instagram.com/calculatedcanvas/"
-    #- name: linkedin
-    #  url: "https://linkedin.com/in/mathematicalmichael"
     - name: email
-      url: "mailto:solutions@mindthemath.com"
-    # - name: github-alt
-    #   url: "https://github.com/ml-starter-packs/"
+      url: "/contact"
+    - name: linkedin
+      url: "https://linkedin.com/in/mathematicalmichael"
   ######################################################
   
   analytics:
