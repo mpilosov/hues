@@ -20,7 +20,7 @@ How can we expect to steer artificial intelligence, to establish safety guardrai
 
 ## Technical Details
 
-When designing the training procedure for algorithms, there are two broad categories which encompass most work. The first involves supervising the machine's learning process, by presenting it with correct answers. The second is called unsupervised learning, and involves defining an objective that can be computed without the need for "correct" answers.
+When designing the training procedure for algorithms, there are two broad categories which encompass most work. The first is called supervised learning, and involves supervising the machine's learning process by presenting it with correct answers. The second is called unsupervised learning, and involves defining an objective that can be computed without the need for "correct" answers.
 
 In this work, a neural-network architecture was designed so that it could learn the concept of hue with supervision.
 Then, the correct values of hue were hidden from the algorithm's training process, and it was told only to keep similar colors close together. These represent the unsupervised attempts.
