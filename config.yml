@@ -134,9 +134,9 @@ menu:
     #  url: /search/
     #  weight: 100
     - identifier: docs
-     name: "docs"
-     url: /docs/
-     weight: 40
+      name: "docs"
+      url: /docs/
+      weight: 40
     - identifier: gallery
       name: "gallery"
       url: /gallery/
