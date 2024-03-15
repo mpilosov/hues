@@ -35,7 +35,7 @@ Here you can develop some intuition for the machine's learning process by watchi
 Below are examples of images created at the end of 2160 training epochs. 
 They are stitched together to form 3-minute videos.
 
-(make sure to select 4K)
+(make sure to select 4K resolution by selecting Settings -> Quality -> 4K)
 {{< youtube IMCoDsuntig >}}
 
 ## More

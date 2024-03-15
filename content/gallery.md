@@ -23,17 +23,13 @@ cover:
 
 {{< figure alt="a20" src="https://data.math.computer/v20_umap.png#center" caption="A color wheel with colors sorted according to a statistical approach." class="gallery" >}}
 
-![a1](https://data.math.computer/v0_umap.png#center)
-A color wheel with colors sorted according to a statistical approach. 
+{{< figure alt="a1" src="https://data.math.computer/v0_umap.png#center" caption="A color wheel with colors sorted according to a statistical approach." class="gallery" >}}
 
-![b1](https://data.math.computer/v0_supervised.png#center)
-A color wheel with colors sorted according to a supervised model.
+{{< figure alt="b1" src="https://data.math.computer/v0_supervised.png#center" caption="A color wheel with colors sorted according to a supervised model." class="gallery" >}}
 
-![c1](https://data.math.computer/v0_unsupervised.png#center)
-A color wheel with colors sorted according to an unsupervised model.
+{{< figure alt="c1" src="https://data.math.computer/v0_unsupervised.png#center" caption="A color wheel with colors sorted according to an unsupervised model." class="gallery" >}}
 
-![d1](https://data.math.computer/v0_unsupervised2.png#center)
-A color wheel with colors sorted according to an unsupervised model.
+{{< figure alt="d1" src="https://data.math.computer/v0_unsupervised2.png#center" caption="A color wheel with colors sorted according to an unsupervised model." class="gallery" >}}
 
 [more](/tags/stills)
 
