@@ -34,7 +34,7 @@ cover:
 [more](/tags/stills)
 
 ## Animations
-(make sure to select 4K resolution by selecting Settings -> Quality)
+(make sure to select 4K resolution by selecting Settings -> Quality -> 4K)
 
 ### Learned
 {{< youtube dBzS4ir9LlM >}}
