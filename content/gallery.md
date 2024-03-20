@@ -34,15 +34,25 @@ cover:
 [more](/tags/stills)
 
 ## Animations
-(make sure to select 4K resolution by selecting Settings -> Quality -> 4K)
+Here you will find a visualization of the learning process.
+The machine is presented with batches of colors and ask to sort them, evaluating its performance and updating its knowledge each time.
+Once enough batches are presented so that all 949 colors have been seen exactly once, the training process has completed its first "epoch," and we capture the state of its learning process as an image.
+We repeat this process several hundred times--allowing the models to see all of the colors repeatedly--and arrange the images after each epoch into an animation.
+
+Below, you can watch the evolution of the learning process under different circumstances.
+
+(make sure to select 4K resolution by selecting Settings -> Quality -> 2160p/4K)
 
 ### Learned
+In the "Learned" one, the hues associated with each color are presented as the "correct answers," which allows the model to learn (or mememorize) an arrangement which is quite similar to hue.
 {{< youtube dBzS4ir9LlM >}}
 
 ### Discovered
+In the "Discovered" one, the model attempts to arrange colors in a way that tries to keep similar colors close together.
 {{< youtube gY53U477XiI >}}
 
 
 ## Technical Information
 
-Please see the [docs](/docs/intro)
+Please see the [docs](/docs/intro) for more information about Hues of Intelligence, including more images from each of the respective algorithms used.
+
