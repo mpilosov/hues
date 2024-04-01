@@ -35,9 +35,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://hues.mpilosov.com/gallery/</guid>
-      <description>Stills more
-Animations (make sure to select 4K)
-Learned Discovered Technical Information Please see the docs</description>
+      <description>Trailer Stills 81 color wheels displayed in a 9x9 grid. The wheels represent three distinct categories of distribution: color wheels sorted by unsupervised models, color wheels sorted by supervised models, and a single color wheel sorted by hue.
+A close up of the color wheels.
+A color wheel with colors sorted according to a statistical approach.
+A color wheel with colors sorted according to a statistical approach.
+A color wheel with colors sorted according to a supervised model.</description>
     </item>
     
     <item>
@@ -78,7 +80,7 @@ It is interesting to watch its attempt evolve:</description>
       
       <guid>http://hues.mpilosov.com/docs/unsupervised/</guid>
       <description>In the first unsupervised set, the objective was defined as preserving the relative distances amongst examples in the same batch. In other words, for a given set of examples, the model would compare how far apart each pair of colors were in RGB space and in the discovered 1-dimensional space. It tried to keep these pair-wise distances similar to each other.
-At some point during the discovery, the model comes across the concept of luminance (brightness), before settling into a discovery path that blends this concept in combination with grouping like-colors.</description>
+At some point during its discovery, the model comes across the concept of luminance (brightness), before settling into a discovery path that blends this concept in combination with grouping like-colors.</description>
     </item>
     
     <item>
