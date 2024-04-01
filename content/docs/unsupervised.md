@@ -21,7 +21,7 @@ It tried to keep these pair-wise distances similar to each other.
 
 {{< youtube 08ybYDEJVF8 >}}
 
-At some point during the discovery, the model comes across the concept of luminance (brightness), before settling into a discovery path that blends this concept in combination with grouping like-colors.
+At some point during its discovery, the model comes across the concept of luminance (brightness), before settling into a discovery path that blends this concept in combination with grouping like-colors.
 Many attempts turned out with blue-brown-yellow characteristics, while some landed closer to a sorting-by-brightness result.
 
 ![img-0](https://data.math.computer/v0_unsupervised.png#center)

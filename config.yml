@@ -74,8 +74,8 @@ params:
     buttons:
       - name: About
         url: about
-      - name: Gallery
-        url: gallery
+      # - name: Gallery
+      #   url: gallery
 
   ######################################################
 
@@ -133,10 +133,10 @@ menu:
     #  name: ":mag:"
     #  url: /search/
     #  weight: 100
-    #- identifier: docs
-    #  name: "docs"
-    #  url: /docs/
-    #  weight: 40
+    - identifier: docs
+      name: "docs"
+      url: /docs/
+      weight: 40
     - identifier: gallery
       name: "gallery"
       url: /gallery/
