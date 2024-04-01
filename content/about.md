@@ -36,7 +36,7 @@ editPost:
 
 *The "Hues of Intelligence" project is an art installation that challenges us to examine the influx of machines into our daily lives–to explore how their perspectives on the world compare to our own. Algorithms were tasked with sequencing a collection of colors; the results of their attempts are presented as a collection of prints and animations.*
 
-{{< youtube GA4e7jd_m_U >}}
+{{< youtube ffjxm0pHStc >}}
 
 
 If machines will be making an ever-increasing proportion of our human decisions, then should we not ask ourselves what differences exist between our human perceptions and those of the decision-makers?

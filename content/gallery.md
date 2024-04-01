@@ -13,7 +13,9 @@ cover:
     hidden: false
 ---
 
-{{< youtube GA4e7jd_m_U >}}
+## Trailer
+
+{{< youtube ffjxm0pHStc >}}
 
 ## Stills
 
@@ -44,11 +46,11 @@ Below, you can watch the evolution of the learning process under different circu
 (make sure to select 4K resolution by selecting Settings -> Quality -> 2160p/4K)
 
 ### Learned
-In the "Learned" one, the hues associated with each color are presented as the "correct answers," which allows the model to learn (or mememorize) an arrangement which is quite similar to hue.
+In this "Learned" animation, the hues associated with each color are presented as the "correct answers," which allows the model to learn (or mememorize) an arrangement which is quite similar to hue.
 {{< youtube dBzS4ir9LlM >}}
 
 ### Discovered
-In the "Discovered" one, the model attempts to arrange colors in a way that tries to keep similar colors close together.
+In this "Discovered" animation, the model attempts to arrange colors in a way that tries to keep similar colors close together.
 {{< youtube gY53U477XiI >}}
 
 
